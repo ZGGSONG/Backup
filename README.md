@@ -2,3 +2,15 @@
 
 
 > **斐讯k2官改固件备份**
+
+## git代理
+
+- 打开git bash（windows）
+- 输入vim ~/.gitconfig回车
+- 按i进入编辑模式，将下面的内容粘贴进去
+ ```
+ [http]
+    proxy = sock5://127.0.0.1:1080
+ [https]
+    proxy = sock5://127.0.0.1:1080
+```
