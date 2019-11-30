@@ -14,3 +14,5 @@
  [https]
     proxy = sock5://127.0.0.1:1080
 ```
+
+__[解决git clone速度太慢的问题（SS socks5代理）](https://blog.csdn.net/qq_37409292/article/details/83005919)__
