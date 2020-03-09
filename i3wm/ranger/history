@@ -1,0 +1,15 @@
+cd /home/swj/.local/
+cd /home/swj/.config/ranger
+cd /home/swj/.config/ranger/plugins/ranger_devicons/
+search ner
+search nerd
+mkdir a
+rename test
+shell vim a.pdf
+delete
+open_with vim
+shell youtube-dl -ic https://www.youtube.com/watch?v=rygW7o1qPJg
+shell youtube-dl https://www.youtube.com/watch?v=rygW7o1qPJg
+cd /home/swj/.config/ranger/
+find r
+
