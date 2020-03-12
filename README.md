@@ -14,6 +14,4 @@ just backup something
 
 - [ssr](https://github.com/ZGGSONG/Backup/tree/master/ssr)
 
-- [vimrc](https://github.com/ZGGSONG/Backup/tree/master/vim)
-
 - [百度网盘助手](https://github.com/ZGGSONG/Backup/tree/master/wangpanzhushou)
