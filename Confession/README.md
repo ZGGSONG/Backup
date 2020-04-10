@@ -4,7 +4,7 @@
 
 ## 演示
 
-**[DEMO](https://blog.zggsong.cn/usr/program/Confession_Demo/)**
+**[DEMO](https://www.zggsong.cn/program/Confession_Demo/)**
 
 ## 鸣谢
 
