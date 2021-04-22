@@ -1,0 +1,24 @@
+---
+name: luna_pinyin.cn_en
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+git	git
+ls	ls
+cd	cd
+pwd	pwd
+git ps	gitps
+kubernetes	kubernetes
+kubernetes	kuber
+kubectl	kubectl
+kubectl	kubec
+docker	docker
+docker	dock
+ipvs	ipvs
+ps	ps
+bash	bash
+source	source
+source	sou
+rm	rm

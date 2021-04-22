@@ -1,0 +1,85 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	55
+#@/user_id	4b0541a7-4fe6-4c5c-a210-88e22454482b
+an 	按	c=1 d=1 t=55
+bi ye she ji 	畢業設計	c=0 d=0.0873716 t=55
+bu neng 	不能	c=0 d=0.088692 t=55
+bu shi 	不是	c=0 d=0.0839457 t=55
+bu shi dou ke yi ma 	不是都可以嗎	c=1 d=0.843665 t=55
+ci ku 	詞庫	c=2 d=1.97302 t=55
+da 	大	c=0 d=0.0955997 t=55
+dou 	都	c=0 d=0.0839457 t=55
+duo shao 	多少	c=0 d=0.0802519 t=55
+ei 	誒	c=1 d=0.882497 t=55
+en 	恩	c=1 d=0.810584 t=55
+en en 	嗯嗯	c=0 d=0.0891366 t=55
+en en na 	嗯嗯那	c=1 d=0.895834 t=55
+fa sheng 	發生	c=0 d=0.0955997 t=55
+fa sheng da 	發生大	c=2 d=1.92639 t=55
+fen 	份	c=0 d=0.0802519 t=55
+gan sha 	幹啥	c=0 d=0.0847894 t=55
+ha ha 	哈哈	c=1 d=0.847894 t=55
+ha ha ha 	哈哈哈	c=1 d=0.927743 t=55
+hai mei shui ya 	還沒睡呀	c=1 d=0.860708 t=55
+hao 	豪	c=1 d=1.05017 t=55
+hun shu 	混輸	c=1 d=0.995012 t=55
+ji feng 	疾風	c=0 d=0.0941765 t=55
+ji feng jian hao 	疾風劍豪	c=1 d=0.946485 t=55
+ji suan ji 	計算機	c=1 d=0.923116 t=55
+jian 	劍	c=1 d=1.0454 t=55
+jiao cheng 	教程	c=1 d=0.980199 t=55
+jin ju 	金桔	c=1 d=0.83527 t=55
+ke 	克	c=1 d=0.798516 t=55
+ke yi ma 	可以嗎	c=0 d=0.0839457 t=55
+lai yuan 	來源	c=1 d=0.985112 t=55
+le 	了	c=0 d=0.088692 t=55
+lei si le 	累死了	c=1 d=0.826959 t=55
+li rui 	立瑞	c=1 d=0.869358 t=55
+ma 	媽	c=2 d=1.76535 t=55
+mai 	買	c=0 d=0.0802519 t=55
+mai duo shao fen 	買多少份	c=1 d=0.806541 t=55
+me si 	麼斯	c=1 d=0.818731 t=55
+mei 	沒	c=0 d=0.0847894 t=55
+mei gan sha 	沒幹啥	c=1 d=0.852144 t=55
+na 	那	c=0 d=0.0891366 t=55
+na li 	哪裏	c=1 d=0.794534 t=55
+neng 	能	c=0 d=0.088692 t=55
+neng bu neng zuo wan le 	能不能做完了	c=1 d=0.891366 t=55
+ni 	你	c=1 d=1.00854 t=55
+ni sui wo 	你隨我	c=1 d=0.814647 t=55
+ni zao dian shui 	你早點睡	c=1 d=0.904837 t=55
+ni zhe 	逆着	c=1 d=0.913931 t=55
+o 	哦	c=1 d=0.909373 t=55
+ping guo 	蘋果	c=1 d=0.831104 t=55
+ri chang 	日常	c=0 d=0.1 t=52
+ri chang ci ku 	日常詞庫	c=1 d=1 t=53
+se 	色	c=1 d=1 t=55
+shen me de 	什麼的	c=1 d=0.839457 t=55
+sheng cheng 	生成	c=1 d=0.97531 t=55
+shu ma 	數碼	c=1 d=1 t=54
+shu ru fa 	輸入法	c=1 d=0.786628 t=55
+shu xu guan 	鼠鬚管	c=1 d=0.782705 t=55
+shui 	睡	c=0 d=0.0900325 t=55
+song 	送	c=0 d=0.0771052 t=55
+song wan jun 	宋婉軍	c=1 d=0.778801 t=55
+song wan jun 	送萬鈞	c=1 d=0.774916 t=55
+tian jia 	添加	c=1 d=0.941765 t=55
+wan jun 	萬鈞	c=0 d=0.0771052 t=55
+xin 	心	c=1 d=0.790571 t=55
+ya 	呀	c=1 d=0.856415 t=55
+yao de bu 	要的不	c=1 d=0.822835 t=55
+yi fen 	一份	c=1 d=0.802519 t=55
+yi zhi 	一直	c=0 d=0.0869358 t=55
+yue di 	月底	c=1 d=0.88692 t=55
+zai 	在	c=0 d=0.0869358 t=55
+zao dian 	早點	c=0 d=0.0900325 t=55
+zhe liang tian 	這兩天	c=0 d=0.0869358 t=55
+zhe liang tian yi zhi zai 	這兩天一直在	c=1 d=0.873716 t=55
+zhong ying wen 	中英文	c=1 d=0.99005 t=55
+zong hai qin 	宗海琴	c=1 d=0.937067 t=55
+zuo 	做	c=0 d=0.0873716 t=55
+zuo bi ye she ji 	做畢業設計	c=1 d=0.878095 t=55
+zuo wan 	做完	c=0 d=0.088692 t=55
